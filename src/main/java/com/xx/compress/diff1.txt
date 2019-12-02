@@ -1,0 +1,1047 @@
+productId:20132039, houseId:108754, oldChannel:15065973375, newChannel:15065973311
+productId:20132010, houseId:141354, oldChannel:15065973375, newChannel:15065973311
+productId:20132011, houseId:141365, oldChannel:15065973375, newChannel:15065973311
+productId:20132012, houseId:141371, oldChannel:15065973375, newChannel:15065973311
+productId:20132013, houseId:141372, oldChannel:15065973375, newChannel:15065973311
+productId:20132014, houseId:141377, oldChannel:15065973375, newChannel:15065973311
+productId:20132041, houseId:294502, oldChannel:15065973375, newChannel:15065973311
+productId:20131752, houseId:1084279, oldChannel:32245843535, newChannel:32782714447
+productId:20132096, houseId:1183743, oldChannel:15065973375, newChannel:15065973311
+productId:20131760, houseId:5071733, oldChannel:15065973375, newChannel:15065973311
+productId:11639948, houseId:6139856, oldChannel:32245843487, newChannel:15065974303
+productId:11639949, houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:11639950, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11742823, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11822766, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:12033789, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:13938011, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:12033548, houseId:6671982, oldChannel:32245843487, newChannel:15065974303
+productId:12033550, houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:16627610, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+productId:18128746, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:20132275, houseId:6773034, oldChannel:15065973375, newChannel:15065973311
+productId:20132274, houseId:6769464, oldChannel:15065973375, newChannel:10771006015
+productId:20132276, houseId:6830868, oldChannel:15065973375, newChannel:15065973311
+productId:20132277, houseId:7757492, oldChannel:15065973375, newChannel:15065973311
+productId:20131846, houseId:8260736, oldChannel:15065973375, newChannel:15065973311
+productId:13273319, houseId:8814506, oldChannel:15065974303, newChannel:32245843487
+productId:13273324, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:15746753, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:13273318, houseId:8814513, oldChannel:15065974303, newChannel:32245843487
+productId:13273320, houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+productId:13273321, houseId:8814527, oldChannel:15065974303, newChannel:32245843487
+productId:13273323, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:17474739, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:13273329, houseId:8814548, oldChannel:15065974303, newChannel:32245843487
+productId:13273334, houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+productId:13273337, houseId:8814576, oldChannel:15065974303, newChannel:32245843487
+productId:13273339, houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+productId:13273340, houseId:8814583, oldChannel:15065974303, newChannel:32245843487
+productId:13273341, houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+productId:20132278, houseId:9235052, oldChannel:15065973375, newChannel:15065973311
+productId:20132097, houseId:9976625, oldChannel:15065973375, newChannel:15065973311
+productId:20132087, houseId:9976653, oldChannel:15065973375, newChannel:15065973311
+productId:20132086, houseId:9976695, oldChannel:15065973375, newChannel:15065973311
+productId:20131887, houseId:10251508, oldChannel:32782714623, newChannel:32245843487
+productId:14694825, houseId:10432339, oldChannel:32245843487, newChannel:15065974303
+productId:14694826, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657848, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657849, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:14694828, houseId:10432353, oldChannel:32245843487, newChannel:15065974303
+productId:14694830, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657863, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657864, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:14694838, houseId:10432388, oldChannel:32245843487, newChannel:15065974303
+productId:14694841, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657842, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657843, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:14694843, houseId:10432402, oldChannel:32245843487, newChannel:15065974303
+productId:14694844, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657852, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657853, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:20132279, houseId:10561286, oldChannel:15065973375, newChannel:10771006015
+productId:20132022, houseId:11018568, oldChannel:15065973375, newChannel:15065973311
+productId:20132076, houseId:11697554, oldChannel:15065973375, newChannel:15065973311
+productId:20131892, houseId:11798123, oldChannel:32782714623, newChannel:32245843487
+productId:20131844, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20131845, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20132110, houseId:13205466, oldChannel:15065973375, newChannel:15065973311
+productId:20131972, houseId:13201791, oldChannel:15065973375, newChannel:15065973311
+productId:20132111, houseId:13331424, oldChannel:15065973375, newChannel:15065973311
+productId:20132280, houseId:13623534, oldChannel:15065973375, newChannel:15065973279
+productId:20132040, houseId:14110391, oldChannel:15065973375, newChannel:15065973311
+productId:20131973, houseId:14173265, oldChannel:32245843535, newChannel:32782714447
+productId:20132015, houseId:14792548, oldChannel:32245843535, newChannel:32782714447
+productId:20131869, houseId:15063770, oldChannel:32245843535, newChannel:32782714447
+productId:19339716, houseId:15281806, oldChannel:32245843487, newChannel:15065974303
+productId:19339717, houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+productId:19339718, houseId:15281813, oldChannel:32245843487, newChannel:15065974303
+productId:19339719, houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+productId:19526547, houseId:15480704, oldChannel:32245843487, newChannel:15065974303
+productId:19526548, houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+productId:20132071, houseId:15685426, oldChannel:32245843535, newChannel:32782714447
+productId:20132193, houseId:15669487, oldChannel:15065973375, newChannel:15065973311
+productId:20131942, houseId:15841260, oldChannel:32245843535, newChannel:32782714447
+productId:20132069, houseId:15935319, oldChannel:32782713471, newChannel:32245842559
+productId:20132080, houseId:15935319, oldChannel:32782714623, newChannel:32245843711
+productId:20132070, houseId:15935704, oldChannel:32782713471, newChannel:32245842559
+productId:20132081, houseId:15935704, oldChannel:32782714623, newChannel:32245843711
+productId:20131890, houseId:15957971, oldChannel:15065973375, newChannel:15065973311
+productId:20131938, houseId:15958153, oldChannel:15065973375, newChannel:15065973311
+productId:20131901, houseId:15958636, oldChannel:15065973375, newChannel:15065973311
+productId:20131933, houseId:15958783, oldChannel:15065973375, newChannel:15065973311
+productId:20131849, houseId:15958902, oldChannel:15065973375, newChannel:15065973311
+productId:20132023, houseId:15971222, oldChannel:15065973375, newChannel:15065973311
+productId:20132024, houseId:15971509, oldChannel:15065973375, newChannel:15065973311
+productId:20131939, houseId:15957523, oldChannel:15065973375, newChannel:15065973311
+productId:20132025, houseId:15996989, oldChannel:15065973375, newChannel:15065973311
+productId:20132026, houseId:15997297, oldChannel:15065973375, newChannel:15065973311
+productId:20131896, houseId:16042916, oldChannel:32782713471, newChannel:32245842559
+productId:20132016, houseId:16042972, oldChannel:32782713471, newChannel:32245842559
+productId:20131945, houseId:16088521, oldChannel:32782713471, newChannel:32245842559
+productId:20131999, houseId:16089011, oldChannel:32782713471, newChannel:32245842559
+productId:20132133, houseId:16076229, oldChannel:32245843535, newChannel:32782714447
+productId:20132037, houseId:16096788, oldChannel:15065973375, newChannel:15065973311
+productId:20131988, houseId:16088199, oldChannel:32782713471, newChannel:32245842559
+productId:20131962, houseId:16110011, oldChannel:15065973375, newChannel:15065973311
+productId:20132039, houseId:108754, oldChannel:15065973375, newChannel:15065973311
+productId:20132010, houseId:141354, oldChannel:15065973375, newChannel:15065973311
+productId:20132011, houseId:141365, oldChannel:15065973375, newChannel:15065973311
+productId:20132012, houseId:141371, oldChannel:15065973375, newChannel:15065973311
+productId:20132013, houseId:141372, oldChannel:15065973375, newChannel:15065973311
+productId:20132014, houseId:141377, oldChannel:15065973375, newChannel:15065973311
+productId:20132041, houseId:294502, oldChannel:15065973375, newChannel:15065973311
+productId:20131752, houseId:1084279, oldChannel:32245843535, newChannel:32782714447
+productId:20132096, houseId:1183743, oldChannel:15065973375, newChannel:15065973311
+productId:20131760, houseId:5071733, oldChannel:15065973375, newChannel:15065973311
+productId:11639948, houseId:6139856, oldChannel:32245843487, newChannel:15065974303
+productId:11639949, houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:11639950, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11742823, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11822766, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:12033789, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:13938011, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:12033548, houseId:6671982, oldChannel:32245843487, newChannel:15065974303
+productId:12033550, houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:16627610, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+productId:18128746, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:20132275, houseId:6773034, oldChannel:15065973375, newChannel:15065973311
+productId:20132274, houseId:6769464, oldChannel:15065973375, newChannel:10771006015
+productId:20132276, houseId:6830868, oldChannel:15065973375, newChannel:15065973311
+productId:20132277, houseId:7757492, oldChannel:15065973375, newChannel:15065973311
+productId:20131846, houseId:8260736, oldChannel:15065973375, newChannel:15065973311
+productId:13273319, houseId:8814506, oldChannel:15065974303, newChannel:32245843487
+productId:13273324, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:15746753, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:13273318, houseId:8814513, oldChannel:15065974303, newChannel:32245843487
+productId:13273320, houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+productId:13273321, houseId:8814527, oldChannel:15065974303, newChannel:32245843487
+productId:13273323, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:17474739, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:13273329, houseId:8814548, oldChannel:15065974303, newChannel:32245843487
+productId:13273334, houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+productId:13273337, houseId:8814576, oldChannel:15065974303, newChannel:32245843487
+productId:13273339, houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+productId:13273340, houseId:8814583, oldChannel:15065974303, newChannel:32245843487
+productId:13273341, houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+productId:20132278, houseId:9235052, oldChannel:15065973375, newChannel:15065973311
+productId:20132097, houseId:9976625, oldChannel:15065973375, newChannel:15065973311
+productId:20132087, houseId:9976653, oldChannel:15065973375, newChannel:15065973311
+productId:20132086, houseId:9976695, oldChannel:15065973375, newChannel:15065973311
+productId:20131887, houseId:10251508, oldChannel:32782714623, newChannel:32245843487
+productId:14694825, houseId:10432339, oldChannel:32245843487, newChannel:15065974303
+productId:14694826, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657848, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657849, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:14694828, houseId:10432353, oldChannel:32245843487, newChannel:15065974303
+productId:14694830, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657863, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657864, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:14694838, houseId:10432388, oldChannel:32245843487, newChannel:15065974303
+productId:14694841, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657842, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657843, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:14694843, houseId:10432402, oldChannel:32245843487, newChannel:15065974303
+productId:14694844, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657852, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657853, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:20132279, houseId:10561286, oldChannel:15065973375, newChannel:10771006015
+productId:20132022, houseId:11018568, oldChannel:15065973375, newChannel:15065973311
+productId:20132076, houseId:11697554, oldChannel:15065973375, newChannel:15065973311
+productId:20131892, houseId:11798123, oldChannel:32782714623, newChannel:32245843487
+productId:20131844, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20131845, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20132110, houseId:13205466, oldChannel:15065973375, newChannel:15065973311
+productId:20131972, houseId:13201791, oldChannel:15065973375, newChannel:15065973311
+productId:20132111, houseId:13331424, oldChannel:15065973375, newChannel:15065973311
+productId:20132280, houseId:13623534, oldChannel:15065973375, newChannel:15065973279
+productId:20132040, houseId:14110391, oldChannel:15065973375, newChannel:15065973311
+productId:20131973, houseId:14173265, oldChannel:32245843535, newChannel:32782714447
+productId:20132015, houseId:14792548, oldChannel:32245843535, newChannel:32782714447
+productId:20131869, houseId:15063770, oldChannel:32245843535, newChannel:32782714447
+productId:19339716, houseId:15281806, oldChannel:32245843487, newChannel:15065974303
+productId:19339717, houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+productId:19339718, houseId:15281813, oldChannel:32245843487, newChannel:15065974303
+productId:19339719, houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+productId:19526547, houseId:15480704, oldChannel:32245843487, newChannel:15065974303
+productId:19526548, houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+productId:20132071, houseId:15685426, oldChannel:32245843535, newChannel:32782714447
+productId:20132193, houseId:15669487, oldChannel:15065973375, newChannel:15065973311
+productId:20131942, houseId:15841260, oldChannel:32245843535, newChannel:32782714447
+productId:20132069, houseId:15935319, oldChannel:32782713471, newChannel:32245842559
+productId:20132080, houseId:15935319, oldChannel:32782714623, newChannel:32245843711
+productId:20132070, houseId:15935704, oldChannel:32782713471, newChannel:32245842559
+productId:20132081, houseId:15935704, oldChannel:32782714623, newChannel:32245843711
+productId:20131890, houseId:15957971, oldChannel:15065973375, newChannel:15065973311
+productId:20131938, houseId:15958153, oldChannel:15065973375, newChannel:15065973311
+productId:20131901, houseId:15958636, oldChannel:15065973375, newChannel:15065973311
+productId:20131933, houseId:15958783, oldChannel:15065973375, newChannel:15065973311
+productId:20131849, houseId:15958902, oldChannel:15065973375, newChannel:15065973311
+productId:20132023, houseId:15971222, oldChannel:15065973375, newChannel:15065973311
+productId:20132024, houseId:15971509, oldChannel:15065973375, newChannel:15065973311
+productId:20131939, houseId:15957523, oldChannel:15065973375, newChannel:15065973311
+productId:20132025, houseId:15996989, oldChannel:15065973375, newChannel:15065973311
+productId:20132026, houseId:15997297, oldChannel:15065973375, newChannel:15065973311
+productId:20131896, houseId:16042916, oldChannel:32782713471, newChannel:32245842559
+productId:20132016, houseId:16042972, oldChannel:32782713471, newChannel:32245842559
+productId:20131945, houseId:16088521, oldChannel:32782713471, newChannel:32245842559
+productId:20131999, houseId:16089011, oldChannel:32782713471, newChannel:32245842559
+productId:20132133, houseId:16076229, oldChannel:32245843535, newChannel:32782714447
+productId:20132037, houseId:16096788, oldChannel:15065973375, newChannel:15065973311
+productId:20131988, houseId:16088199, oldChannel:32782713471, newChannel:32245842559
+productId:20131962, houseId:16110011, oldChannel:15065973375, newChannel:15065973311
+productId:20132039, houseId:108754, oldChannel:15065973375, newChannel:15065973311
+productId:20132010, houseId:141354, oldChannel:15065973375, newChannel:15065973311
+productId:20132011, houseId:141365, oldChannel:15065973375, newChannel:15065973311
+productId:20132012, houseId:141371, oldChannel:15065973375, newChannel:15065973311
+productId:20132013, houseId:141372, oldChannel:15065973375, newChannel:15065973311
+productId:20132014, houseId:141377, oldChannel:15065973375, newChannel:15065973311
+productId:20132041, houseId:294502, oldChannel:15065973375, newChannel:15065973311
+productId:20131752, houseId:1084279, oldChannel:32245843535, newChannel:32782714447
+productId:20132096, houseId:1183743, oldChannel:15065973375, newChannel:15065973311
+productId:20131760, houseId:5071733, oldChannel:15065973375, newChannel:15065973311
+productId:11639948, houseId:6139856, oldChannel:32245843487, newChannel:15065974303
+productId:11639949, houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:11639950, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11742823, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11822766, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:12033789, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:13938011, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:12033548, houseId:6671982, oldChannel:32245843487, newChannel:15065974303
+productId:12033550, houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:16627610, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+productId:18128746, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:20132275, houseId:6773034, oldChannel:15065973375, newChannel:15065973311
+productId:20132274, houseId:6769464, oldChannel:15065973375, newChannel:10771006015
+productId:20132276, houseId:6830868, oldChannel:15065973375, newChannel:15065973311
+productId:20132277, houseId:7757492, oldChannel:15065973375, newChannel:15065973311
+productId:20131846, houseId:8260736, oldChannel:15065973375, newChannel:15065973311
+productId:13273319, houseId:8814506, oldChannel:15065974303, newChannel:32245843487
+productId:13273324, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:15746753, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:13273318, houseId:8814513, oldChannel:15065974303, newChannel:32245843487
+productId:13273320, houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+productId:13273321, houseId:8814527, oldChannel:15065974303, newChannel:32245843487
+productId:13273323, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:17474739, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:13273329, houseId:8814548, oldChannel:15065974303, newChannel:32245843487
+productId:13273334, houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+productId:13273337, houseId:8814576, oldChannel:15065974303, newChannel:32245843487
+productId:13273339, houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+productId:13273340, houseId:8814583, oldChannel:15065974303, newChannel:32245843487
+productId:13273341, houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+productId:20132278, houseId:9235052, oldChannel:15065973375, newChannel:15065973311
+productId:20132097, houseId:9976625, oldChannel:15065973375, newChannel:15065973311
+productId:20132087, houseId:9976653, oldChannel:15065973375, newChannel:15065973311
+productId:20132086, houseId:9976695, oldChannel:15065973375, newChannel:15065973311
+productId:20131887, houseId:10251508, oldChannel:32782714623, newChannel:32245843487
+productId:14694825, houseId:10432339, oldChannel:32245843487, newChannel:15065974303
+productId:14694826, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657848, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657849, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:14694828, houseId:10432353, oldChannel:32245843487, newChannel:15065974303
+productId:14694830, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657863, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657864, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:14694838, houseId:10432388, oldChannel:32245843487, newChannel:15065974303
+productId:14694841, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657842, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657843, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:14694843, houseId:10432402, oldChannel:32245843487, newChannel:15065974303
+productId:14694844, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657852, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657853, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:20132279, houseId:10561286, oldChannel:15065973375, newChannel:10771006015
+productId:20132022, houseId:11018568, oldChannel:15065973375, newChannel:15065973311
+productId:20132076, houseId:11697554, oldChannel:15065973375, newChannel:15065973311
+productId:20131892, houseId:11798123, oldChannel:32782714623, newChannel:32245843487
+productId:20131844, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20131845, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20132110, houseId:13205466, oldChannel:15065973375, newChannel:15065973311
+productId:20131972, houseId:13201791, oldChannel:15065973375, newChannel:15065973311
+productId:20132111, houseId:13331424, oldChannel:15065973375, newChannel:15065973311
+productId:20132280, houseId:13623534, oldChannel:15065973375, newChannel:15065973279
+productId:20132040, houseId:14110391, oldChannel:15065973375, newChannel:15065973311
+productId:20131973, houseId:14173265, oldChannel:32245843535, newChannel:32782714447
+productId:20132015, houseId:14792548, oldChannel:32245843535, newChannel:32782714447
+productId:20131869, houseId:15063770, oldChannel:32245843535, newChannel:32782714447
+productId:19339716, houseId:15281806, oldChannel:32245843487, newChannel:15065974303
+productId:19339717, houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+productId:19339718, houseId:15281813, oldChannel:32245843487, newChannel:15065974303
+productId:19339719, houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+productId:19526547, houseId:15480704, oldChannel:32245843487, newChannel:15065974303
+productId:19526548, houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+productId:20132071, houseId:15685426, oldChannel:32245843535, newChannel:32782714447
+productId:20132193, houseId:15669487, oldChannel:15065973375, newChannel:15065973311
+productId:20131942, houseId:15841260, oldChannel:32245843535, newChannel:32782714447
+productId:20132069, houseId:15935319, oldChannel:32782713471, newChannel:32245842559
+productId:20132080, houseId:15935319, oldChannel:32782714623, newChannel:32245843711
+productId:20132070, houseId:15935704, oldChannel:32782713471, newChannel:32245842559
+productId:20132081, houseId:15935704, oldChannel:32782714623, newChannel:32245843711
+productId:20131890, houseId:15957971, oldChannel:15065973375, newChannel:15065973311
+productId:20131938, houseId:15958153, oldChannel:15065973375, newChannel:15065973311
+productId:20131901, houseId:15958636, oldChannel:15065973375, newChannel:15065973311
+productId:20131933, houseId:15958783, oldChannel:15065973375, newChannel:15065973311
+productId:20131849, houseId:15958902, oldChannel:15065973375, newChannel:15065973311
+productId:20132023, houseId:15971222, oldChannel:15065973375, newChannel:15065973311
+productId:20132024, houseId:15971509, oldChannel:15065973375, newChannel:15065973311
+productId:20131939, houseId:15957523, oldChannel:15065973375, newChannel:15065973311
+productId:20132025, houseId:15996989, oldChannel:15065973375, newChannel:15065973311
+productId:20132026, houseId:15997297, oldChannel:15065973375, newChannel:15065973311
+productId:20131896, houseId:16042916, oldChannel:32782713471, newChannel:32245842559
+productId:20132016, houseId:16042972, oldChannel:32782713471, newChannel:32245842559
+productId:20131945, houseId:16088521, oldChannel:32782713471, newChannel:32245842559
+productId:20131999, houseId:16089011, oldChannel:32782713471, newChannel:32245842559
+productId:20132133, houseId:16076229, oldChannel:32245843535, newChannel:32782714447
+productId:20132037, houseId:16096788, oldChannel:15065973375, newChannel:15065973311
+productId:20131988, houseId:16088199, oldChannel:32782713471, newChannel:32245842559
+productId:20131962, houseId:16110011, oldChannel:15065973375, newChannel:15065973311
+productId:20132039, houseId:108754, oldChannel:15065973375, newChannel:15065973311
+productId:20132010, houseId:141354, oldChannel:15065973375, newChannel:15065973311
+productId:20132011, houseId:141365, oldChannel:15065973375, newChannel:15065973311
+productId:20132012, houseId:141371, oldChannel:15065973375, newChannel:15065973311
+productId:20132013, houseId:141372, oldChannel:15065973375, newChannel:15065973311
+productId:20132014, houseId:141377, oldChannel:15065973375, newChannel:15065973311
+productId:20132041, houseId:294502, oldChannel:15065973375, newChannel:15065973311
+productId:20131752, houseId:1084279, oldChannel:32245843535, newChannel:32782714447
+productId:20132096, houseId:1183743, oldChannel:15065973375, newChannel:15065973311
+productId:20131760, houseId:5071733, oldChannel:15065973375, newChannel:15065973311
+productId:11639948, houseId:6139856, oldChannel:32245843487, newChannel:15065974303
+productId:11639949, houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:11639950, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11742823, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11822766, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:12033789, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:13938011, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:12033548, houseId:6671982, oldChannel:32245843487, newChannel:15065974303
+productId:12033550, houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:16627610, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+productId:18128746, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:20132275, houseId:6773034, oldChannel:15065973375, newChannel:15065973311
+productId:20132274, houseId:6769464, oldChannel:15065973375, newChannel:10771006015
+productId:20132276, houseId:6830868, oldChannel:15065973375, newChannel:15065973311
+productId:20132277, houseId:7757492, oldChannel:15065973375, newChannel:15065973311
+productId:20131846, houseId:8260736, oldChannel:15065973375, newChannel:15065973311
+productId:13273319, houseId:8814506, oldChannel:15065974303, newChannel:32245843487
+productId:13273324, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:15746753, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:13273318, houseId:8814513, oldChannel:15065974303, newChannel:32245843487
+productId:13273320, houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+productId:13273321, houseId:8814527, oldChannel:15065974303, newChannel:32245843487
+productId:13273323, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:17474739, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:13273329, houseId:8814548, oldChannel:15065974303, newChannel:32245843487
+productId:13273334, houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+productId:13273337, houseId:8814576, oldChannel:15065974303, newChannel:32245843487
+productId:13273339, houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+productId:13273340, houseId:8814583, oldChannel:15065974303, newChannel:32245843487
+productId:13273341, houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+productId:20132278, houseId:9235052, oldChannel:15065973375, newChannel:15065973311
+productId:20132097, houseId:9976625, oldChannel:15065973375, newChannel:15065973311
+productId:20132087, houseId:9976653, oldChannel:15065973375, newChannel:15065973311
+productId:20132086, houseId:9976695, oldChannel:15065973375, newChannel:15065973311
+productId:20131887, houseId:10251508, oldChannel:32782714623, newChannel:32245843487
+productId:14694825, houseId:10432339, oldChannel:32245843487, newChannel:15065974303
+productId:14694826, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657848, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657849, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:14694828, houseId:10432353, oldChannel:32245843487, newChannel:15065974303
+productId:14694830, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657863, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657864, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:14694838, houseId:10432388, oldChannel:32245843487, newChannel:15065974303
+productId:14694841, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657842, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657843, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:14694843, houseId:10432402, oldChannel:32245843487, newChannel:15065974303
+productId:14694844, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657852, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657853, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:20132279, houseId:10561286, oldChannel:15065973375, newChannel:10771006015
+productId:20132022, houseId:11018568, oldChannel:15065973375, newChannel:15065973311
+productId:20132076, houseId:11697554, oldChannel:15065973375, newChannel:15065973311
+productId:20131892, houseId:11798123, oldChannel:32782714623, newChannel:32245843487
+productId:20131844, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20131845, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20132110, houseId:13205466, oldChannel:15065973375, newChannel:15065973311
+productId:20131972, houseId:13201791, oldChannel:15065973375, newChannel:15065973311
+productId:20132111, houseId:13331424, oldChannel:15065973375, newChannel:15065973311
+productId:20132280, houseId:13623534, oldChannel:15065973375, newChannel:15065973279
+productId:20132040, houseId:14110391, oldChannel:15065973375, newChannel:15065973311
+productId:20131973, houseId:14173265, oldChannel:32245843535, newChannel:32782714447
+productId:20132015, houseId:14792548, oldChannel:32245843535, newChannel:32782714447
+productId:20131869, houseId:15063770, oldChannel:32245843535, newChannel:32782714447
+productId:19339716, houseId:15281806, oldChannel:32245843487, newChannel:15065974303
+productId:19339717, houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+productId:19339718, houseId:15281813, oldChannel:32245843487, newChannel:15065974303
+productId:19339719, houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+productId:19526547, houseId:15480704, oldChannel:32245843487, newChannel:15065974303
+productId:19526548, houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+productId:20132071, houseId:15685426, oldChannel:32245843535, newChannel:32782714447
+productId:20132193, houseId:15669487, oldChannel:15065973375, newChannel:15065973311
+productId:20131942, houseId:15841260, oldChannel:32245843535, newChannel:32782714447
+productId:20132069, houseId:15935319, oldChannel:32782713471, newChannel:32245842559
+productId:20132080, houseId:15935319, oldChannel:32782714623, newChannel:32245843711
+productId:20132070, houseId:15935704, oldChannel:32782713471, newChannel:32245842559
+productId:20132081, houseId:15935704, oldChannel:32782714623, newChannel:32245843711
+productId:20131890, houseId:15957971, oldChannel:15065973375, newChannel:15065973311
+productId:20131938, houseId:15958153, oldChannel:15065973375, newChannel:15065973311
+productId:20131901, houseId:15958636, oldChannel:15065973375, newChannel:15065973311
+productId:20131933, houseId:15958783, oldChannel:15065973375, newChannel:15065973311
+productId:20131849, houseId:15958902, oldChannel:15065973375, newChannel:15065973311
+productId:20132023, houseId:15971222, oldChannel:15065973375, newChannel:15065973311
+productId:20132024, houseId:15971509, oldChannel:15065973375, newChannel:15065973311
+productId:20131939, houseId:15957523, oldChannel:15065973375, newChannel:15065973311
+productId:20132025, houseId:15996989, oldChannel:15065973375, newChannel:15065973311
+productId:20132026, houseId:15997297, oldChannel:15065973375, newChannel:15065973311
+productId:20131896, houseId:16042916, oldChannel:32782713471, newChannel:32245842559
+productId:20132016, houseId:16042972, oldChannel:32782713471, newChannel:32245842559
+productId:20131945, houseId:16088521, oldChannel:32782713471, newChannel:32245842559
+productId:20131999, houseId:16089011, oldChannel:32782713471, newChannel:32245842559
+productId:20132133, houseId:16076229, oldChannel:32245843535, newChannel:32782714447
+productId:20132037, houseId:16096788, oldChannel:15065973375, newChannel:15065973311
+productId:20131988, houseId:16088199, oldChannel:32782713471, newChannel:32245842559
+productId:20131962, houseId:16110011, oldChannel:15065973375, newChannel:15065973311
+productId:20132039, houseId:108754, oldChannel:15065973375, newChannel:15065973311
+productId:20132010, houseId:141354, oldChannel:15065973375, newChannel:15065973311
+productId:20132011, houseId:141365, oldChannel:15065973375, newChannel:15065973311
+productId:20132012, houseId:141371, oldChannel:15065973375, newChannel:15065973311
+productId:20132013, houseId:141372, oldChannel:15065973375, newChannel:15065973311
+productId:20132014, houseId:141377, oldChannel:15065973375, newChannel:15065973311
+productId:20132041, houseId:294502, oldChannel:15065973375, newChannel:15065973311
+productId:20131752, houseId:1084279, oldChannel:32245843535, newChannel:32782714447
+productId:20132096, houseId:1183743, oldChannel:15065973375, newChannel:15065973311
+productId:20131760, houseId:5071733, oldChannel:15065973375, newChannel:15065973311
+productId:11639948, houseId:6139856, oldChannel:32245843487, newChannel:15065974303
+productId:11639949, houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:11639950, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11742823, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11822766, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:12033789, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:13938011, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:12033548, houseId:6671982, oldChannel:32245843487, newChannel:15065974303
+productId:12033550, houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:16627610, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+productId:18128746, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:20132275, houseId:6773034, oldChannel:15065973375, newChannel:15065973311
+productId:20132274, houseId:6769464, oldChannel:15065973375, newChannel:10771006015
+productId:20132276, houseId:6830868, oldChannel:15065973375, newChannel:15065973311
+productId:20132277, houseId:7757492, oldChannel:15065973375, newChannel:15065973311
+productId:20131846, houseId:8260736, oldChannel:15065973375, newChannel:15065973311
+productId:13273319, houseId:8814506, oldChannel:15065974303, newChannel:32245843487
+productId:13273324, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:15746753, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:13273318, houseId:8814513, oldChannel:15065974303, newChannel:32245843487
+productId:13273320, houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+productId:13273321, houseId:8814527, oldChannel:15065974303, newChannel:32245843487
+productId:13273323, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:17474739, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:13273329, houseId:8814548, oldChannel:15065974303, newChannel:32245843487
+productId:13273334, houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+productId:13273337, houseId:8814576, oldChannel:15065974303, newChannel:32245843487
+productId:13273339, houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+productId:13273340, houseId:8814583, oldChannel:15065974303, newChannel:32245843487
+productId:13273341, houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+productId:20132278, houseId:9235052, oldChannel:15065973375, newChannel:15065973311
+productId:20132097, houseId:9976625, oldChannel:15065973375, newChannel:15065973311
+productId:20132087, houseId:9976653, oldChannel:15065973375, newChannel:15065973311
+productId:20132086, houseId:9976695, oldChannel:15065973375, newChannel:15065973311
+productId:20131887, houseId:10251508, oldChannel:32782714623, newChannel:32245843487
+productId:14694825, houseId:10432339, oldChannel:32245843487, newChannel:15065974303
+productId:14694826, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657848, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657849, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:14694828, houseId:10432353, oldChannel:32245843487, newChannel:15065974303
+productId:14694830, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657863, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657864, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:14694838, houseId:10432388, oldChannel:32245843487, newChannel:15065974303
+productId:14694841, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657842, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657843, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:14694843, houseId:10432402, oldChannel:32245843487, newChannel:15065974303
+productId:14694844, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657852, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657853, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:20132279, houseId:10561286, oldChannel:15065973375, newChannel:10771006015
+productId:20132022, houseId:11018568, oldChannel:15065973375, newChannel:15065973311
+productId:20132076, houseId:11697554, oldChannel:15065973375, newChannel:15065973311
+productId:20131892, houseId:11798123, oldChannel:32782714623, newChannel:32245843487
+productId:20131844, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20131845, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20132110, houseId:13205466, oldChannel:15065973375, newChannel:15065973311
+productId:20131972, houseId:13201791, oldChannel:15065973375, newChannel:15065973311
+productId:20132111, houseId:13331424, oldChannel:15065973375, newChannel:15065973311
+productId:20132280, houseId:13623534, oldChannel:15065973375, newChannel:15065973279
+productId:20132040, houseId:14110391, oldChannel:15065973375, newChannel:15065973311
+productId:20131973, houseId:14173265, oldChannel:32245843535, newChannel:32782714447
+productId:20132015, houseId:14792548, oldChannel:32245843535, newChannel:32782714447
+productId:20131869, houseId:15063770, oldChannel:32245843535, newChannel:32782714447
+productId:19339716, houseId:15281806, oldChannel:32245843487, newChannel:15065974303
+productId:19339717, houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+productId:19339718, houseId:15281813, oldChannel:32245843487, newChannel:15065974303
+productId:19339719, houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+productId:19526547, houseId:15480704, oldChannel:32245843487, newChannel:15065974303
+productId:19526548, houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+productId:20132071, houseId:15685426, oldChannel:32245843535, newChannel:32782714447
+productId:20132193, houseId:15669487, oldChannel:15065973375, newChannel:15065973311
+productId:20131942, houseId:15841260, oldChannel:32245843535, newChannel:32782714447
+productId:20132069, houseId:15935319, oldChannel:32782713471, newChannel:32245842559
+productId:20132080, houseId:15935319, oldChannel:32782714623, newChannel:32245843711
+productId:20132070, houseId:15935704, oldChannel:32782713471, newChannel:32245842559
+productId:20132081, houseId:15935704, oldChannel:32782714623, newChannel:32245843711
+productId:20131890, houseId:15957971, oldChannel:15065973375, newChannel:15065973311
+productId:20131938, houseId:15958153, oldChannel:15065973375, newChannel:15065973311
+productId:20131901, houseId:15958636, oldChannel:15065973375, newChannel:15065973311
+productId:20131933, houseId:15958783, oldChannel:15065973375, newChannel:15065973311
+productId:20131849, houseId:15958902, oldChannel:15065973375, newChannel:15065973311
+productId:20132023, houseId:15971222, oldChannel:15065973375, newChannel:15065973311
+productId:20132024, houseId:15971509, oldChannel:15065973375, newChannel:15065973311
+productId:20131939, houseId:15957523, oldChannel:15065973375, newChannel:15065973311
+productId:20132025, houseId:15996989, oldChannel:15065973375, newChannel:15065973311
+productId:20132026, houseId:15997297, oldChannel:15065973375, newChannel:15065973311
+productId:20131896, houseId:16042916, oldChannel:32782713471, newChannel:32245842559
+productId:20132016, houseId:16042972, oldChannel:32782713471, newChannel:32245842559
+productId:20131945, houseId:16088521, oldChannel:32782713471, newChannel:32245842559
+productId:20131999, houseId:16089011, oldChannel:32782713471, newChannel:32245842559
+productId:20132133, houseId:16076229, oldChannel:32245843535, newChannel:32782714447
+productId:20132037, houseId:16096788, oldChannel:15065973375, newChannel:15065973311
+productId:20131988, houseId:16088199, oldChannel:32782713471, newChannel:32245842559
+productId:20131962, houseId:16110011, oldChannel:15065973375, newChannel:15065973311
+productId:20132039, houseId:108754, oldChannel:15065973375, newChannel:15065973311
+productId:20132010, houseId:141354, oldChannel:15065973375, newChannel:15065973311
+productId:20132011, houseId:141365, oldChannel:15065973375, newChannel:15065973311
+productId:20132012, houseId:141371, oldChannel:15065973375, newChannel:15065973311
+productId:20132013, houseId:141372, oldChannel:15065973375, newChannel:15065973311
+productId:20132014, houseId:141377, oldChannel:15065973375, newChannel:15065973311
+productId:20132041, houseId:294502, oldChannel:15065973375, newChannel:15065973311
+productId:20131752, houseId:1084279, oldChannel:32245843535, newChannel:32782714447
+productId:20132096, houseId:1183743, oldChannel:15065973375, newChannel:15065973311
+productId:20131760, houseId:5071733, oldChannel:15065973375, newChannel:15065973311
+productId:11639948, houseId:6139856, oldChannel:32245843487, newChannel:15065974303
+productId:11639949, houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:11639950, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11742823, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11822766, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:12033789, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:13938011, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:12033548, houseId:6671982, oldChannel:32245843487, newChannel:15065974303
+productId:12033550, houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:16627610, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+productId:18128746, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:20132275, houseId:6773034, oldChannel:15065973375, newChannel:15065973311
+productId:20132274, houseId:6769464, oldChannel:15065973375, newChannel:10771006015
+productId:20132276, houseId:6830868, oldChannel:15065973375, newChannel:15065973311
+productId:20132277, houseId:7757492, oldChannel:15065973375, newChannel:15065973311
+productId:20131846, houseId:8260736, oldChannel:15065973375, newChannel:15065973311
+productId:13273319, houseId:8814506, oldChannel:15065974303, newChannel:32245843487
+productId:13273324, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:15746753, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:13273318, houseId:8814513, oldChannel:15065974303, newChannel:32245843487
+productId:13273320, houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+productId:13273321, houseId:8814527, oldChannel:15065974303, newChannel:32245843487
+productId:13273323, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:17474739, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:13273329, houseId:8814548, oldChannel:15065974303, newChannel:32245843487
+productId:13273334, houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+productId:13273337, houseId:8814576, oldChannel:15065974303, newChannel:32245843487
+productId:13273339, houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+productId:13273340, houseId:8814583, oldChannel:15065974303, newChannel:32245843487
+productId:13273341, houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+productId:20132278, houseId:9235052, oldChannel:15065973375, newChannel:15065973311
+productId:20132097, houseId:9976625, oldChannel:15065973375, newChannel:15065973311
+productId:20132087, houseId:9976653, oldChannel:15065973375, newChannel:15065973311
+productId:20132086, houseId:9976695, oldChannel:15065973375, newChannel:15065973311
+productId:20131887, houseId:10251508, oldChannel:32782714623, newChannel:32245843487
+productId:14694825, houseId:10432339, oldChannel:32245843487, newChannel:15065974303
+productId:14694826, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657848, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657849, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:14694828, houseId:10432353, oldChannel:32245843487, newChannel:15065974303
+productId:14694830, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657863, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657864, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:14694838, houseId:10432388, oldChannel:32245843487, newChannel:15065974303
+productId:14694841, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657842, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657843, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:14694843, houseId:10432402, oldChannel:32245843487, newChannel:15065974303
+productId:14694844, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657852, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657853, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:20132279, houseId:10561286, oldChannel:15065973375, newChannel:10771006015
+productId:20132022, houseId:11018568, oldChannel:15065973375, newChannel:15065973311
+productId:20132076, houseId:11697554, oldChannel:15065973375, newChannel:15065973311
+productId:20131892, houseId:11798123, oldChannel:32782714623, newChannel:32245843487
+productId:20131844, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20131845, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20132110, houseId:13205466, oldChannel:15065973375, newChannel:15065973311
+productId:20131972, houseId:13201791, oldChannel:15065973375, newChannel:15065973311
+productId:20132111, houseId:13331424, oldChannel:15065973375, newChannel:15065973311
+productId:20132280, houseId:13623534, oldChannel:15065973375, newChannel:15065973279
+productId:20132040, houseId:14110391, oldChannel:15065973375, newChannel:15065973311
+productId:20131973, houseId:14173265, oldChannel:32245843535, newChannel:32782714447
+productId:20132015, houseId:14792548, oldChannel:32245843535, newChannel:32782714447
+productId:20131869, houseId:15063770, oldChannel:32245843535, newChannel:32782714447
+productId:19339716, houseId:15281806, oldChannel:32245843487, newChannel:15065974303
+productId:19339717, houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+productId:19339718, houseId:15281813, oldChannel:32245843487, newChannel:15065974303
+productId:19339719, houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+productId:19526547, houseId:15480704, oldChannel:32245843487, newChannel:15065974303
+productId:19526548, houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+productId:20132071, houseId:15685426, oldChannel:32245843535, newChannel:32782714447
+productId:20132193, houseId:15669487, oldChannel:15065973375, newChannel:15065973311
+productId:20131942, houseId:15841260, oldChannel:32245843535, newChannel:32782714447
+productId:20132069, houseId:15935319, oldChannel:32782713471, newChannel:32245842559
+productId:20132080, houseId:15935319, oldChannel:32782714623, newChannel:32245843711
+productId:20132070, houseId:15935704, oldChannel:32782713471, newChannel:32245842559
+productId:20132081, houseId:15935704, oldChannel:32782714623, newChannel:32245843711
+productId:20131890, houseId:15957971, oldChannel:15065973375, newChannel:15065973311
+productId:20131938, houseId:15958153, oldChannel:15065973375, newChannel:15065973311
+productId:20131901, houseId:15958636, oldChannel:15065973375, newChannel:15065973311
+productId:20131933, houseId:15958783, oldChannel:15065973375, newChannel:15065973311
+productId:20131849, houseId:15958902, oldChannel:15065973375, newChannel:15065973311
+productId:20132023, houseId:15971222, oldChannel:15065973375, newChannel:15065973311
+productId:20132024, houseId:15971509, oldChannel:15065973375, newChannel:15065973311
+productId:20131939, houseId:15957523, oldChannel:15065973375, newChannel:15065973311
+productId:20132025, houseId:15996989, oldChannel:15065973375, newChannel:15065973311
+productId:20132026, houseId:15997297, oldChannel:15065973375, newChannel:15065973311
+productId:20131896, houseId:16042916, oldChannel:32782713471, newChannel:32245842559
+productId:20132016, houseId:16042972, oldChannel:32782713471, newChannel:32245842559
+productId:20131945, houseId:16088521, oldChannel:32782713471, newChannel:32245842559
+productId:20131999, houseId:16089011, oldChannel:32782713471, newChannel:32245842559
+productId:20132133, houseId:16076229, oldChannel:32245843535, newChannel:32782714447
+productId:20132037, houseId:16096788, oldChannel:15065973375, newChannel:15065973311
+productId:20131988, houseId:16088199, oldChannel:32782713471, newChannel:32245842559
+productId:20131962, houseId:16110011, oldChannel:15065973375, newChannel:15065973311
+productId:20132039, houseId:108754, oldChannel:15065973375, newChannel:15065973311
+productId:20132010, houseId:141354, oldChannel:15065973375, newChannel:15065973311
+productId:20132011, houseId:141365, oldChannel:15065973375, newChannel:15065973311
+productId:20132012, houseId:141371, oldChannel:15065973375, newChannel:15065973311
+productId:20132013, houseId:141372, oldChannel:15065973375, newChannel:15065973311
+productId:20132014, houseId:141377, oldChannel:15065973375, newChannel:15065973311
+productId:20132041, houseId:294502, oldChannel:15065973375, newChannel:15065973311
+productId:20131752, houseId:1084279, oldChannel:32245843535, newChannel:32782714447
+productId:20132096, houseId:1183743, oldChannel:15065973375, newChannel:15065973311
+productId:20131760, houseId:5071733, oldChannel:15065973375, newChannel:15065973311
+productId:11639948, houseId:6139856, oldChannel:32245843487, newChannel:15065974303
+productId:11639949, houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:11639950, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11742823, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11822766, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:12033789, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:13938011, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:12033548, houseId:6671982, oldChannel:32245843487, newChannel:15065974303
+productId:12033550, houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:16627610, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+productId:18128746, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:20132275, houseId:6773034, oldChannel:15065973375, newChannel:15065973311
+productId:20132274, houseId:6769464, oldChannel:15065973375, newChannel:10771006015
+productId:20132276, houseId:6830868, oldChannel:15065973375, newChannel:15065973311
+productId:20132277, houseId:7757492, oldChannel:15065973375, newChannel:15065973311
+productId:20131846, houseId:8260736, oldChannel:15065973375, newChannel:15065973311
+productId:13273319, houseId:8814506, oldChannel:15065974303, newChannel:32245843487
+productId:13273324, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:15746753, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:13273318, houseId:8814513, oldChannel:15065974303, newChannel:32245843487
+productId:13273320, houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+productId:13273321, houseId:8814527, oldChannel:15065974303, newChannel:32245843487
+productId:13273323, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:17474739, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:13273329, houseId:8814548, oldChannel:15065974303, newChannel:32245843487
+productId:13273334, houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+productId:13273337, houseId:8814576, oldChannel:15065974303, newChannel:32245843487
+productId:13273339, houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+productId:13273340, houseId:8814583, oldChannel:15065974303, newChannel:32245843487
+productId:13273341, houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+productId:20132278, houseId:9235052, oldChannel:15065973375, newChannel:15065973311
+productId:20132097, houseId:9976625, oldChannel:15065973375, newChannel:15065973311
+productId:20132087, houseId:9976653, oldChannel:15065973375, newChannel:15065973311
+productId:20132086, houseId:9976695, oldChannel:15065973375, newChannel:15065973311
+productId:20131887, houseId:10251508, oldChannel:32782714623, newChannel:32245843487
+productId:14694825, houseId:10432339, oldChannel:32245843487, newChannel:15065974303
+productId:14694826, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657848, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657849, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:14694828, houseId:10432353, oldChannel:32245843487, newChannel:15065974303
+productId:14694830, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657863, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657864, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:14694838, houseId:10432388, oldChannel:32245843487, newChannel:15065974303
+productId:14694841, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657842, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657843, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:14694843, houseId:10432402, oldChannel:32245843487, newChannel:15065974303
+productId:14694844, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657852, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657853, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:20132279, houseId:10561286, oldChannel:15065973375, newChannel:10771006015
+productId:20132022, houseId:11018568, oldChannel:15065973375, newChannel:15065973311
+productId:20132076, houseId:11697554, oldChannel:15065973375, newChannel:15065973311
+productId:20131892, houseId:11798123, oldChannel:32782714623, newChannel:32245843487
+productId:20131844, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20131845, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20132110, houseId:13205466, oldChannel:15065973375, newChannel:15065973311
+productId:20131972, houseId:13201791, oldChannel:15065973375, newChannel:15065973311
+productId:20132111, houseId:13331424, oldChannel:15065973375, newChannel:15065973311
+productId:20132280, houseId:13623534, oldChannel:15065973375, newChannel:15065973279
+productId:20132040, houseId:14110391, oldChannel:15065973375, newChannel:15065973311
+productId:20131973, houseId:14173265, oldChannel:32245843535, newChannel:32782714447
+productId:20132015, houseId:14792548, oldChannel:32245843535, newChannel:32782714447
+productId:20131869, houseId:15063770, oldChannel:32245843535, newChannel:32782714447
+productId:19339716, houseId:15281806, oldChannel:32245843487, newChannel:15065974303
+productId:19339717, houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+productId:19339718, houseId:15281813, oldChannel:32245843487, newChannel:15065974303
+productId:19339719, houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+productId:19526547, houseId:15480704, oldChannel:32245843487, newChannel:15065974303
+productId:19526548, houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+productId:20132071, houseId:15685426, oldChannel:32245843535, newChannel:32782714447
+productId:20132193, houseId:15669487, oldChannel:15065973375, newChannel:15065973311
+productId:20131942, houseId:15841260, oldChannel:32245843535, newChannel:32782714447
+productId:20132069, houseId:15935319, oldChannel:32782713471, newChannel:32245842559
+productId:20132080, houseId:15935319, oldChannel:32782714623, newChannel:32245843711
+productId:20132070, houseId:15935704, oldChannel:32782713471, newChannel:32245842559
+productId:20132081, houseId:15935704, oldChannel:32782714623, newChannel:32245843711
+productId:20131890, houseId:15957971, oldChannel:15065973375, newChannel:15065973311
+productId:20131938, houseId:15958153, oldChannel:15065973375, newChannel:15065973311
+productId:20131901, houseId:15958636, oldChannel:15065973375, newChannel:15065973311
+productId:20131933, houseId:15958783, oldChannel:15065973375, newChannel:15065973311
+productId:20131849, houseId:15958902, oldChannel:15065973375, newChannel:15065973311
+productId:20132023, houseId:15971222, oldChannel:15065973375, newChannel:15065973311
+productId:20132024, houseId:15971509, oldChannel:15065973375, newChannel:15065973311
+productId:20131939, houseId:15957523, oldChannel:15065973375, newChannel:15065973311
+productId:20132025, houseId:15996989, oldChannel:15065973375, newChannel:15065973311
+productId:20132026, houseId:15997297, oldChannel:15065973375, newChannel:15065973311
+productId:20131896, houseId:16042916, oldChannel:32782713471, newChannel:32245842559
+productId:20132016, houseId:16042972, oldChannel:32782713471, newChannel:32245842559
+productId:20131945, houseId:16088521, oldChannel:32782713471, newChannel:32245842559
+productId:20131999, houseId:16089011, oldChannel:32782713471, newChannel:32245842559
+productId:20132133, houseId:16076229, oldChannel:32245843535, newChannel:32782714447
+productId:20132037, houseId:16096788, oldChannel:15065973375, newChannel:15065973311
+productId:20131988, houseId:16088199, oldChannel:32782713471, newChannel:32245842559
+productId:20131962, houseId:16110011, oldChannel:15065973375, newChannel:15065973311
+productId:20132039, houseId:108754, oldChannel:15065973375, newChannel:15065973311
+productId:20132010, houseId:141354, oldChannel:15065973375, newChannel:15065973311
+productId:20132011, houseId:141365, oldChannel:15065973375, newChannel:15065973311
+productId:20132012, houseId:141371, oldChannel:15065973375, newChannel:15065973311
+productId:20132013, houseId:141372, oldChannel:15065973375, newChannel:15065973311
+productId:20132014, houseId:141377, oldChannel:15065973375, newChannel:15065973311
+productId:20132041, houseId:294502, oldChannel:15065973375, newChannel:15065973311
+productId:20131752, houseId:1084279, oldChannel:32245843535, newChannel:32782714447
+productId:20132096, houseId:1183743, oldChannel:15065973375, newChannel:15065973311
+productId:20131760, houseId:5071733, oldChannel:15065973375, newChannel:15065973311
+productId:11639948, houseId:6139856, oldChannel:32245843487, newChannel:15065974303
+productId:11639949, houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:11639950, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11742823, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11822766, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:12033789, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:13938011, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:12033548, houseId:6671982, oldChannel:32245843487, newChannel:15065974303
+productId:12033550, houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:16627610, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+productId:18128746, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:20132275, houseId:6773034, oldChannel:15065973375, newChannel:15065973311
+productId:20132274, houseId:6769464, oldChannel:15065973375, newChannel:10771006015
+productId:20132276, houseId:6830868, oldChannel:15065973375, newChannel:15065973311
+productId:20132277, houseId:7757492, oldChannel:15065973375, newChannel:15065973311
+productId:20131846, houseId:8260736, oldChannel:15065973375, newChannel:15065973311
+productId:13273319, houseId:8814506, oldChannel:15065974303, newChannel:32245843487
+productId:13273324, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:15746753, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:13273318, houseId:8814513, oldChannel:15065974303, newChannel:32245843487
+productId:13273320, houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+productId:13273321, houseId:8814527, oldChannel:15065974303, newChannel:32245843487
+productId:13273323, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:17474739, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:13273329, houseId:8814548, oldChannel:15065974303, newChannel:32245843487
+productId:13273334, houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+productId:13273337, houseId:8814576, oldChannel:15065974303, newChannel:32245843487
+productId:13273339, houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+productId:13273340, houseId:8814583, oldChannel:15065974303, newChannel:32245843487
+productId:13273341, houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+productId:20132278, houseId:9235052, oldChannel:15065973375, newChannel:15065973311
+productId:20132097, houseId:9976625, oldChannel:15065973375, newChannel:15065973311
+productId:20132087, houseId:9976653, oldChannel:15065973375, newChannel:15065973311
+productId:20132086, houseId:9976695, oldChannel:15065973375, newChannel:15065973311
+productId:20131887, houseId:10251508, oldChannel:32782714623, newChannel:32245843487
+productId:14694825, houseId:10432339, oldChannel:32245843487, newChannel:15065974303
+productId:14694826, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657848, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657849, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:14694828, houseId:10432353, oldChannel:32245843487, newChannel:15065974303
+productId:14694830, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657863, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657864, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:14694838, houseId:10432388, oldChannel:32245843487, newChannel:15065974303
+productId:14694841, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657842, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657843, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:14694843, houseId:10432402, oldChannel:32245843487, newChannel:15065974303
+productId:14694844, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657852, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657853, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:20132279, houseId:10561286, oldChannel:15065973375, newChannel:10771006015
+productId:20132022, houseId:11018568, oldChannel:15065973375, newChannel:15065973311
+productId:20132076, houseId:11697554, oldChannel:15065973375, newChannel:15065973311
+productId:20131892, houseId:11798123, oldChannel:32782714623, newChannel:32245843487
+productId:20131844, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20131845, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20132110, houseId:13205466, oldChannel:15065973375, newChannel:15065973311
+productId:20131972, houseId:13201791, oldChannel:15065973375, newChannel:15065973311
+productId:20132111, houseId:13331424, oldChannel:15065973375, newChannel:15065973311
+productId:20132280, houseId:13623534, oldChannel:15065973375, newChannel:15065973279
+productId:20132040, houseId:14110391, oldChannel:15065973375, newChannel:15065973311
+productId:20131973, houseId:14173265, oldChannel:32245843535, newChannel:32782714447
+productId:20132015, houseId:14792548, oldChannel:32245843535, newChannel:32782714447
+productId:20131869, houseId:15063770, oldChannel:32245843535, newChannel:32782714447
+productId:19339716, houseId:15281806, oldChannel:32245843487, newChannel:15065974303
+productId:19339717, houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+houseId:15281806, oldChannel:32245859935, newChannel:15065990751
+productId:19339718, houseId:15281813, oldChannel:32245843487, newChannel:15065974303
+productId:19339719, houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+houseId:15281813, oldChannel:32245859935, newChannel:15065990751
+productId:19526547, houseId:15480704, oldChannel:32245843487, newChannel:15065974303
+productId:19526548, houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+houseId:15480704, oldChannel:32245859935, newChannel:15065990751
+productId:20132071, houseId:15685426, oldChannel:32245843535, newChannel:32782714447
+productId:20132193, houseId:15669487, oldChannel:15065973375, newChannel:15065973311
+productId:20131942, houseId:15841260, oldChannel:32245843535, newChannel:32782714447
+productId:20132069, houseId:15935319, oldChannel:32782713471, newChannel:32245842559
+productId:20132080, houseId:15935319, oldChannel:32782714623, newChannel:32245843711
+productId:20132070, houseId:15935704, oldChannel:32782713471, newChannel:32245842559
+productId:20132081, houseId:15935704, oldChannel:32782714623, newChannel:32245843711
+productId:20131890, houseId:15957971, oldChannel:15065973375, newChannel:15065973311
+productId:20131938, houseId:15958153, oldChannel:15065973375, newChannel:15065973311
+productId:20131901, houseId:15958636, oldChannel:15065973375, newChannel:15065973311
+productId:20131933, houseId:15958783, oldChannel:15065973375, newChannel:15065973311
+productId:20131849, houseId:15958902, oldChannel:15065973375, newChannel:15065973311
+productId:20132023, houseId:15971222, oldChannel:15065973375, newChannel:15065973311
+productId:20132024, houseId:15971509, oldChannel:15065973375, newChannel:15065973311
+productId:20131939, houseId:15957523, oldChannel:15065973375, newChannel:15065973311
+productId:20132025, houseId:15996989, oldChannel:15065973375, newChannel:15065973311
+productId:20132026, houseId:15997297, oldChannel:15065973375, newChannel:15065973311
+productId:20131896, houseId:16042916, oldChannel:32782713471, newChannel:32245842559
+productId:20132016, houseId:16042972, oldChannel:32782713471, newChannel:32245842559
+productId:20131945, houseId:16088521, oldChannel:32782713471, newChannel:32245842559
+productId:20131999, houseId:16089011, oldChannel:32782713471, newChannel:32245842559
+productId:20132133, houseId:16076229, oldChannel:32245843535, newChannel:32782714447
+productId:20132037, houseId:16096788, oldChannel:15065973375, newChannel:15065973311
+productId:20131988, houseId:16088199, oldChannel:32782713471, newChannel:32245842559
+productId:20131962, houseId:16110011, oldChannel:15065973375, newChannel:15065973311
+productId:20132039, houseId:108754, oldChannel:15065973375, newChannel:15065973311
+productId:20132010, houseId:141354, oldChannel:15065973375, newChannel:15065973311
+productId:20132011, houseId:141365, oldChannel:15065973375, newChannel:15065973311
+productId:20132012, houseId:141371, oldChannel:15065973375, newChannel:15065973311
+productId:20132013, houseId:141372, oldChannel:15065973375, newChannel:15065973311
+productId:20132014, houseId:141377, oldChannel:15065973375, newChannel:15065973311
+productId:20132041, houseId:294502, oldChannel:15065973375, newChannel:15065973311
+productId:20131752, houseId:1084279, oldChannel:32245843535, newChannel:32782714447
+productId:20132096, houseId:1183743, oldChannel:15065973375, newChannel:15065973311
+productId:20131760, houseId:5071733, oldChannel:15065973375, newChannel:15065973311
+productId:11639948, houseId:6139856, oldChannel:32245843487, newChannel:15065974303
+productId:11639949, houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:11639950, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11742823, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:11822766, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:12033789, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+productId:13938011, houseId:6139856, oldChannel:32245859935, newChannel:15065990751
+houseId:6139856, oldChannel:32245860191, newChannel:15065991007
+productId:12033548, houseId:6671982, oldChannel:32245843487, newChannel:15065974303
+productId:12033550, houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:16627610, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+productId:18128746, houseId:6671982, oldChannel:32245859935, newChannel:15065990751
+houseId:6671982, oldChannel:32245860191, newChannel:15065991007
+productId:20132275, houseId:6773034, oldChannel:15065973375, newChannel:15065973311
+productId:20132274, houseId:6769464, oldChannel:15065973375, newChannel:10771006015
+productId:20132276, houseId:6830868, oldChannel:15065973375, newChannel:15065973311
+productId:20132277, houseId:7757492, oldChannel:15065973375, newChannel:15065973311
+productId:20131846, houseId:8260736, oldChannel:15065973375, newChannel:15065973311
+productId:13273319, houseId:8814506, oldChannel:15065974303, newChannel:32245843487
+productId:13273324, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:15746753, houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+houseId:8814506, oldChannel:15065990751, newChannel:32245859935
+productId:13273318, houseId:8814513, oldChannel:15065974303, newChannel:32245843487
+productId:13273320, houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+houseId:8814513, oldChannel:15065990751, newChannel:32245859935
+productId:13273321, houseId:8814527, oldChannel:15065974303, newChannel:32245843487
+productId:13273323, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:17474739, houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+houseId:8814527, oldChannel:15065990751, newChannel:32245859935
+productId:13273329, houseId:8814548, oldChannel:15065974303, newChannel:32245843487
+productId:13273334, houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+houseId:8814548, oldChannel:15065990751, newChannel:32245859935
+productId:13273337, houseId:8814576, oldChannel:15065974303, newChannel:32245843487
+productId:13273339, houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+houseId:8814576, oldChannel:15065990751, newChannel:32245859935
+productId:13273340, houseId:8814583, oldChannel:15065974303, newChannel:32245843487
+productId:13273341, houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+houseId:8814583, oldChannel:15065990751, newChannel:32245859935
+productId:20132278, houseId:9235052, oldChannel:15065973375, newChannel:15065973311
+productId:20132097, houseId:9976625, oldChannel:15065973375, newChannel:15065973311
+productId:20132087, houseId:9976653, oldChannel:15065973375, newChannel:15065973311
+productId:20132086, houseId:9976695, oldChannel:15065973375, newChannel:15065973311
+productId:20131887, houseId:10251508, oldChannel:32782714623, newChannel:32245843487
+productId:14694825, houseId:10432339, oldChannel:32245843487, newChannel:15065974303
+productId:14694826, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657848, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:16657849, houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+houseId:10432339, oldChannel:32245859935, newChannel:15065990751
+productId:14694828, houseId:10432353, oldChannel:32245843487, newChannel:15065974303
+productId:14694830, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657863, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:16657864, houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+houseId:10432353, oldChannel:32245859935, newChannel:15065990751
+productId:14694838, houseId:10432388, oldChannel:32245843487, newChannel:15065974303
+productId:14694841, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657842, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:16657843, houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+houseId:10432388, oldChannel:32245859935, newChannel:15065990751
+productId:14694843, houseId:10432402, oldChannel:32245843487, newChannel:15065974303
+productId:14694844, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657852, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:16657853, houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+houseId:10432402, oldChannel:32245859935, newChannel:15065990751
+productId:20132279, houseId:10561286, oldChannel:15065973375, newChannel:10771006015
+productId:20132022, houseId:11018568, oldChannel:15065973375, newChannel:15065973311
+productId:20132076, houseId:11697554, oldChannel:15065973375, newChannel:15065973311
+productId:20131892, houseId:11798123, oldChannel:32782714623, newChannel:32245843487
+productId:20131844, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
+productId:20131845, houseId:11798235, oldChannel:32782714623, newChannel:27950876191
